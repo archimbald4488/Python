@@ -1,2 +1,2 @@
 # Python
-Here you can find all of my Python projects.
+Täällä pidän kaikki python-projektini.
