@@ -3,7 +3,7 @@
 
 #### omakieli.py<br>
 Tämä tiedosto on oman ohjelmointikieleni suorittaja. Se toimii seuraavalla tavalla:<br>
-Ohjelma muodostuu riveistä, joista jokainen on yksi seuraavista:
+Suoritettava ohjelma muodostuu riveistä, joista jokainen on yksi seuraavista:
 
 **PRINT** [arvo]: tulostaa annetun arvon<br>
 **MOV** [muuttuja] [arvo]: asettaa muuttujaan annetun arvon<br>
