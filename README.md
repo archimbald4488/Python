@@ -8,7 +8,7 @@ Suoritettava ohjelma muodostuu riveistä, joista jokainen on yksi seuraavista:
 **PRINT** [arvo]: tulostaa annetun arvon<br>
 **MOV** [muuttuja] [arvo]: asettaa muuttujaan annetun arvon<br>
 **ADD** [muuttuja] [arvo]: lisää muuttujaan annetun arvon<br>
-**SUB** [muuttuja] [arvo}: vähentää muuttujasta annetun arvon<br>
+**SUB** [muuttuja] [arvo]: vähentää muuttujasta annetun arvon<br>
 **MUL** [muuttuja] [arvo]: kertoo muuttujan annetulla arvolla<br>
 [kohta]: määrittelee kohdan, johon voidaan hypätä muualta<br>
 **JUMP** [kohta]: hyppää annettuun kohtaan<br>
@@ -26,5 +26,6 @@ Merkintä [ehto] tarkoittaa ehtoa muotoa [arvo] [vertailu] [arvo]. Tässä [vert
 
 Ohjelma annetaan listana. Jokainen listan alkio on yksi ohjelman rivi. Funktio palauttaa listana kaikki PRINT-komentojen tulokset ohjelman suorituksen aikana.
 
-Ohjelman funktiot eivät toteuta virheenkäsittelyä, joten älä kirjoita väärin!<br>
+Ohjelman funktiot eivät toteuta virheenkäsittelyä, joten älä kirjoita väärin!
+
 Tiedostosta löytyy ajettavaksi esimerkkiohjelma (if main -lohkosta), joka tulostaa alkulukuja.
