@@ -1,6 +1,10 @@
 # Python
 ### Täällä pidän kaikki python-projektini.
 
+#### Data Structures/
+Tämä kansio sisältää Data Structures & Algorithms yliopistokurssin viikkotehtäviä.
+Tehtävissä mm. luodaan erilaisia algoritmeja ja tietojentallennustyyppejä.
+
 #### omakieli.py<br>
 Tämä tiedosto on oman ohjelmointikieleni suorittaja. Se toimii seuraavalla tavalla:<br>
 Suoritettava ohjelma muodostuu riveistä, joista jokainen on yksi seuraavista:
