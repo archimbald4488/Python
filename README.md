@@ -5,6 +5,10 @@
 Tämä kansio sisältää Data Structures & Algorithms yliopistokurssin viikkotehtäviä.
 Tehtävissä mm. luodaan erilaisia algoritmeja ja tietojentallennustyyppejä.
 
+#### storelocator.py<br>
+Tämä tiedosto on lyhyt skripti joka tallentaa julkisesta API:sta haettuja tietoja joulukoristeita myyvistä kaupoista.
+Projekti on toteutettu kaverille hänen pyynnöstään.
+
 #### omakieli.py<br>
 Tämä tiedosto on oman ohjelmointikieleni suorittaja. Se toimii seuraavalla tavalla:<br>
 Suoritettava ohjelma muodostuu riveistä, joista jokainen on yksi seuraavista:
