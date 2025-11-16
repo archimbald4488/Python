@@ -5,6 +5,10 @@
 Tämä kansio sisältää Data Structures & Algorithms yliopistokurssin viikkotehtäviä.
 Tehtävissä mm. luodaan erilaisia algoritmeja ja tietojentallennustyyppejä.
 
+#### MongoDB/
+Tämä kansio sisältää projektin jossa harjoittelin tietokantojen käyttöä MongoDB:llä. 
+Kansion projekti luo ja alustaa kolme erillistä tietokantaa, joita voi muokata yksinkertaisella terminaalisovelluksella.
+
 #### storelocator.py<br>
 Tämä tiedosto on lyhyt skripti joka tallentaa julkisesta API:sta haettuja tietoja joulukoristeita myyvistä kaupoista.
 Projekti on toteutettu kaverille hänen pyynnöstään.
