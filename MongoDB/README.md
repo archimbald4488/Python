@@ -25,3 +25,7 @@ venv\Scripts\activate         Windows
 
 2. Install dependencies
 pip install -r requirements.txt
+
+3. Initialize databases by running init_db.py
+
+Run the app with app.py and restore the database with restore_db.py
